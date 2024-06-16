@@ -1,0 +1,19 @@
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.AssemblyReference.cache
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Avtorizacia.resources
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Properties.Resources.resources
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Windows.Main.resources
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.GenerateResource.cache
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.CoreCompileInputs.cache
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\bin\Debug\Diplom_Moiceeva.exe.config
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\bin\Debug\Diplom_Moiceeva.exe
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\bin\Debug\Diplom_Moiceeva.pdb
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.exe
+C:\Users\beloc\source\repos\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.pdb
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.AssemblyReference.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Avtorizacia.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Properties.Resources.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.Windows.Main.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.GenerateResource.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.csproj.CoreCompileInputs.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.exe
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Diplom_Moiceeva\Diplom_Moiceeva\obj\Debug\Diplom_Moiceeva.pdb

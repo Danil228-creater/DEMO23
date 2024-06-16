@@ -1,0 +1,49 @@
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.exe.config
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.exe
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.AssemblyReference.cache
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Avtorizacia.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Glavna_Ctranica.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Regestr_Control.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Properties.Resources.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Main.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.GenerateResource.cache
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.CoreCompileInputs.cache
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.exe
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.pdb
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.pdb
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Yceniki.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Klass.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Ychitel.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Predmet.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Predmet_Ychitel.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Control_attest.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Otchet_control.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.User_Uchenik.resources
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Bunifu.Licensing.dll
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.exe.licenses
+C:\Users\beloc\source\repos\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.CopyComplete
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.AssemblyReference.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Avtorizacia.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Control_attest.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Glavna_Ctranica.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Otchet_control.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Regestr_Control.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.User_Uchenik.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Yceniki.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Control.Ychitel.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Properties.Resources.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Klass.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Main.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Predmet.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.Windows.Predmet_Ychitel.resources
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.GenerateResource.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.exe.licenses
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.CoreCompileInputs.cache
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.exe
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.pdb
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.exe.config
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.exe
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Moiceeva_Diplomm.pdb
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\bin\Debug\Bunifu.Licensing.dll
+C:\Users\beloc\OneDrive\Рабочий стол\Моисеева ОТЧЕТ ПП\Moiceeva_Diplomm\Moiceeva_Diplomm\obj\Debug\Moiceeva_Diplomm.csproj.CopyComplete
